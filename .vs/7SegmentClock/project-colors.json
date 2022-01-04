@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82431ecc-98eb-4913-ab20-a76e3b8fbf03": {
+      "ProjectGuid": "82431ecc-98eb-4913-ab20-a76e3b8fbf03",
+      "DisplayName": "7SegmentClock",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,17 @@
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\bin\Debug\net6.0-windows\7SegmentClock.exe
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\bin\Debug\net6.0-windows\7SegmentClock.deps.json
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\bin\Debug\net6.0-windows\7SegmentClock.runtimeconfig.json
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\bin\Debug\net6.0-windows\7SegmentClock.dll
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\bin\Debug\net6.0-windows\ref\7SegmentClock.dll
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\bin\Debug\net6.0-windows\7SegmentClock.pdb
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\obj\Debug\net6.0-windows\7SegmentClock.csproj.AssemblyReference.cache
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\obj\Debug\net6.0-windows\_7SegmentClock.Form1.resources
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\obj\Debug\net6.0-windows\7SegmentClock.csproj.GenerateResource.cache
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\obj\Debug\net6.0-windows\7SegmentClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\obj\Debug\net6.0-windows\7SegmentClock.AssemblyInfoInputs.cache
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\obj\Debug\net6.0-windows\7SegmentClock.AssemblyInfo.cs
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\obj\Debug\net6.0-windows\7SegmentClock.csproj.CoreCompileInputs.cache
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\obj\Debug\net6.0-windows\7SegmentClock.dll
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\obj\Debug\net6.0-windows\ref\7SegmentClock.dll
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\obj\Debug\net6.0-windows\7SegmentClock.pdb
+C:\Users\63976\source\repos\7SegmentClock\7SegmentClock\obj\Debug\net6.0-windows\7SegmentClock.genruntimeconfig.cache
